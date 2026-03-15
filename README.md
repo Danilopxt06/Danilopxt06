@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Danilopxt06/Danilopxt06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Danilo Peixoto and I'm a Full-Stack Developer from Goiás, Brazil.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python">
+</div>
+
+### 🌍 Connect with me
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
+    <a href="https://www.instagram.com/danilo.pxt/" style="text-decoration: none; background-color: #E4405F; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px; margin: 5px; display: inline-block; font-weight: bold;">Instagram</a>  
+    <a href="https://discord.com/users/dani.pxt" style="text-decoration: none; background-color: #7289DA; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px; margin: 5px; display: inline-block; font-weight: bold;">Discord</a>  
+    <a href="mailto:daniloanthonypeixotolima@gmail.com" style="text-decoration: none; background-color: #D14836; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px; margin: 5px; display: inline-block; font-weight: bold;">Gmail</a>  
+    <a href="https://www.linkedin.com/in/danilo-peixoto-7a9971267/" style="text-decoration: none; background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px; margin: 5px; display: inline-block; font-weight: bold;">LinkedIn</a>  
+</div>
